@@ -60,7 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="71" />
     <option name="y" value="38" />
     <option name="width" value="1728" />
@@ -93,6 +93,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -121,15 +122,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683079545359</updated>
-      <workItem from="1683079546997" duration="1860000" />
+      <workItem from="1683079546997" duration="2459000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1860000" />
+    <option name="totallyTimeSpent" value="2459000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="71" y="38" width="1728" height="994" extended-state="0" />
+    <frame x="0" y="38" width="1728" height="994" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
